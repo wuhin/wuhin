@@ -62,20 +62,6 @@
 ---
 
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wuhin&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhin&layout=compact&theme=tokyonight"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=wuhin&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 - Advanced React Patterns
