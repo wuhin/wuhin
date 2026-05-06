@@ -15,7 +15,7 @@
 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;C+Programming+%26+Systems+Projects;Building+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;;Building+and+Learning+Every+Day" />
 
 </div>
 
