@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -74,11 +73,11 @@
 
 # 🎯 Goals for 2026
 
-✅ Build more full-stack applications  
-✅ Contribute to open source  
-✅ Strengthen backend and system design skills  
-✅ Deploy production-ready projects  
-✅ Land a software engineering role  
+-Build more full-stack applications  
+-Contribute to open source  
+-Strengthen backend and system design skills  
+-Deploy production-ready projects  
+-Land a software engineering role  
 
 ---
 
